@@ -1,6 +1,6 @@
 # Kafeterya Otomasyonu
 
-<h1>Kafeler için kullanılabilecek otomasyon </h1>
+<h5>Kafeler için kullanılabilecek otomasyon </h5>
 
 <h2>1 Yapılan Çalışma ve Sonuçları </h2>
 
