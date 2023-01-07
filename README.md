@@ -18,7 +18,7 @@ Siparişler Otomasyonumda “Siparis Hazırla” ekranında oluşturulur. Oluşt
 
 <h3>2.3 Masalar ve Urunlerin Oluşturulması</h3>
 
-Formumuza verileri çekerken masalar ve ürünler gibi verileri seçilebilir yapmam gerekiyordu fakat datagridview tam aradığım şey değildi. Bu sorunu çözmek için UserControl oluşturarak ne kadar masa, ürün olursa olsun oluşturarak istediğim masanın, ürünün verisine erişmem kolaylaştı
+Formumuza verileri çekerken masalar ve ürünler gibi verileri seçilebilir yapmam gerekiyordu fakat datagridview tam aradığım şey değildi. Bu sorunu çözmek için UserControl oluşturarak ne kadar masa, ürün olursa olsun oluşturarak istediğim masanın, ürünün verisine erişmem kolaylaştı.
 
 <h2>3 ÖNERİLER</h2>
 
